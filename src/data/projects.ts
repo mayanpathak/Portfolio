@@ -46,4 +46,15 @@ export const projects: Project[] = [
     liveUrl: "https://how-to-mood2anime-master.vercel.app/",
     githubUrl: "https://github.com/mayanpathak/how-to-mood2anime-master",
   },
+  
+{
+  id: "gemini-mcp-chatbot",
+  title: "Gemini MCP Chatbot",
+  description: "An intelligent CLI chatbot powered by Google Gemini AI with Model Context Protocol integration. Features dynamic tool calling, real-time API interactions, and conversational AI agents for developer workflows.",
+  image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80",
+  tags: ["Node.js", "Google Gemini AI", "Model Context Protocol", "CLI Tools", "AI Agents"],
+  liveUrl: null, // CLI application - no live URL
+  githubUrl: "https://github.com/mayanpathak/newmcp",
+}
+
 ];
