@@ -17,7 +17,7 @@ export const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&w=800",
     tags: ["React.js", "WebSockets", "Node.js", "Express"],
     liveUrl: "https://code-collab-dpmk.vercel.app/",
-    githubUrl: "https://github.com/example/codecollab",
+    githubUrl: "https://github.com/mayanpathak/Code_Collab",
   },
   {
     id: "pomodorify",
@@ -26,7 +26,7 @@ export const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?auto=format&fit=crop&w=800",
     tags: ["React.js", "Firebase Auth", "Framer Motion"],
     liveUrl: "https://pomodorify-blush.vercel.app/",
-    githubUrl: "https://github.com/example/pomodorify",
+    githubUrl: "https://github.com/mayanpathak/Pomodorify",
   },
   {
     id: "sanghbuy",
@@ -35,7 +35,7 @@ export const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=800",
     tags: ["React.js", "REST APIs", "Gemini AI"],
     liveUrl: "https://sangh-buy.vercel.app/",
-    githubUrl: "https://github.com/example/sanghbuy",
+    githubUrl: "https://github.com/mayanpathak/Sangh-Buy",
   },
   {
     id: "moodtoanime",
@@ -44,6 +44,6 @@ export const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1601850494422-3cf14624b0b3?auto=format&fit=crop&w=800",
     tags: ["React.js", "Redux Toolkit", "AI"],
     liveUrl: "https://how-to-mood2anime-master.vercel.app/",
-    githubUrl: "https://github.com/example/moodtoanime",
+    githubUrl: "https://github.com/mayanpathak/how-to-mood2anime-master",
   },
 ];
