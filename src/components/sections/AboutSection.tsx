@@ -61,9 +61,9 @@ export function AboutSection() {
                 <h3 className="text-2xl font-bold mb-4 gradient-text">Journey Highlights</h3>
                 <ul className="space-y-3">
                   {[
-                    "4+ Years Professional Experience",
-                    "Shipped 10+ Production Apps",
-                    "Specialized in React Ecosystem",
+                    
+                    "Shipped 5+ Production Apps",
+                    "Specialized in MERN and Next Ecosystem",
                     "Focus on Performance & UX"
                   ].map((item, i) => (
                     <motion.li 
